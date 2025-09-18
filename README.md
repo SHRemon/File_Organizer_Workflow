@@ -28,7 +28,7 @@ This project automatically:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/SHRemon/File-Organizer.git
+git clone https://github.com/SHRemon/File_Organizer_Workflow.git
 cd File-Organizer
 ```
 
